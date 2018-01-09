@@ -392,15 +392,15 @@ body.editing .grayed, body.virtualEditing .grayed {
 }
 
 .meter {
-	height: 15px;  /* Can be anything */
-	width:15%;
-	float:left;
-	margin:0 15px 5px 0 !important;
-	background:#fff;
-	overflow: hidden;
-	-webkit-border-radius:10px;
-	-moz-border-radius:10px;
-	border-radius:10px;
+    height: 15px;  /* Can be anything */
+    width:15%;
+    float:left;
+    margin:0 15px 5px 0 !important;
+    background:#fff;
+    overflow: hidden;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    border-radius:10px;
 }
 
 .approved-bar {
@@ -2653,7 +2653,7 @@ section.ice-unlocked .next-unapproved {
 
 
 /*body.cattool.editing section.ice-locked:not(.editor) .text:hover {*/
-    /*background-color: rgba(99, 157, 94, 0.1) !important;*/
+/*background-color: rgba(99, 157, 94, 0.1) !important;*/
 /*}*/
 
 .ice-locked-icon > button {
