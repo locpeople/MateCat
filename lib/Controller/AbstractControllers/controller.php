@@ -24,6 +24,7 @@ abstract class controller {
     protected $userIsLogged = false;
     protected $userMail;
 
+
     /**
      * @return Users_UserStruct
      */
